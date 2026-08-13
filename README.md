@@ -8,6 +8,10 @@ The AI investigates a dispute, collects evidence, and drafts a response — but 
 inspects the source, verifies each item, and submits. Nothing here touches a real payment or
 dispute system; all data is deterministic mock data.
 
+
+https://github.com/user-attachments/assets/7684453d-d818-4ed5-bbb8-060d9706af11
+
+
 ## What's here
 
 - **Resolution Center → Dispute → AI Copilot** flow, reproducing Commas' existing visual
